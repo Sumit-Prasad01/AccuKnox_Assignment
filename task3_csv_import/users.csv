@@ -1,0 +1,13 @@
+name,email,role,department
+Aarav Sharma,aarav@example.com,Backend Developer,Engineering
+Diya Patel,diya@example.com,Frontend Developer,Engineering
+Kabir Das,kabir@example.com,Data Scientist,Analytics
+Meera Singh,meera@example.com,Product Manager,Product
+Rohan Verma,rohan@example.com,DevOps Engineer,Operations
+Ananya Roy,ananya@example.com,UI/UX Designer,Design
+Vikram Malhotra,vikram@example.com,Security Analyst,Security
+Pooja Nair,pooja@example.com,QA Engineer,Quality Assurance
+  Siddharth Rao  ,  siddharth@example.com  ,  Cloud Architect  ,  Infrastructure  
+Aarav Duplicate,aarav@example.com,Staff Engineer,Engineering
+Missing Email User,,Intern,Engineering
+,missing_name@example.com,Intern,Product
